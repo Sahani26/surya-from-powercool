@@ -1,0 +1,98 @@
+/* Page wrapper */
+.edit-blog-page {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #f9fafb;
+  min-height: 100vh;
+}
+
+/* Title */
+.edit-blog-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: #111827;
+}
+
+/* Loading text */
+.edit-blog-loading {
+  font-size: 16px;
+  color: #6b7280;
+}
+
+/* Form */
+.edit-blog-form {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+/* Inputs */
+.edit-blog-input {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 14px;
+  font-size: 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  outline: none;
+}
+
+.edit-blog-input:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+}
+
+/* Textareas */
+.edit-blog-textarea {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 16px;
+  font-size: 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  resize: vertical;
+  outline: none;
+}
+
+.edit-blog-textarea:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+}
+
+/* Submit button */
+.edit-blog-submit-btn {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.edit-blog-submit-btn:hover {
+  background-color: #1d4ed8;
+}
+
+.edit-blog-submit-btn:active {
+  transform: scale(0.98);
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .edit-blog-page {
+    padding: 10px;
+  }
+
+  .edit-blog-form {
+    padding: 16px;
+  }
+
+  .edit-blog-title {
+    font-size: 22px;
+  }
+}

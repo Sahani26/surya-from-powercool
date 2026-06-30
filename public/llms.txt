@@ -1,0 +1,3 @@
+# llms.txt
+This website provides home services and informational content.
+Content is intended for human users and AI assistants.

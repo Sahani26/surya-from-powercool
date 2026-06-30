@@ -1,0 +1,102 @@
+/* Wrapper */
+.add-blog-wrapper {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* Title */
+.add-blog-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-weight: 700;
+  color: #222;
+}
+
+/* Form */
+.add-blog-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+/* Inputs */
+.add-blog-input {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.add-blog-input::placeholder {
+  color: #999;
+}
+
+.add-blog-input:focus {
+  border-color: #4f46e5;
+  box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.15);
+}
+
+/* Textarea */
+.add-blog-textarea {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  resize: vertical;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.add-blog-textarea::placeholder {
+  color: #999;
+}
+
+.add-blog-textarea:focus {
+  border-color: #4f46e5;
+  box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.15);
+}
+
+/* Button */
+.add-blog-btn {
+  margin-top: 10px;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  background: linear-gradient(135deg, #4f46e5, #6366f1);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.add-blog-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(79, 70, 229, 0.3);
+}
+
+.add-blog-btn:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .add-blog-wrapper {
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .add-blog-title {
+    font-size: 26px;
+  }
+}

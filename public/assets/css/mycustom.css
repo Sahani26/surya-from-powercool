@@ -1,0 +1,583 @@
+h3.odometer {
+    color: #fff;
+}
+
+.main-slider__content,
+h2.main-slider__title {
+    text-align: left;
+}
+
+.footer-widget__logo {
+    width: 180px;
+    height: 60px;
+}
+
+.footer-widget__logo img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.main-slider__btn-box {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.main-slider__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 14px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+
+/* Call icon subtle blue */
+.call-btn i {
+    color: #2196f3;
+    rotate: 90deg;
+}
+
+.icon-whatsapp {
+    background-image: url(../images/resources/whatsapp-logo.png);
+    width: 22px;
+    height: 22px;
+    background-size: 22px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.fa-phone:before {
+    font-size: 18px;
+}
+
+.header-call .fa-phone:before {
+    color: #2196f3;
+    font-size: 14px;
+}
+
+.fa-envelope:before {
+    color: #fff;
+    font-size: 14px;
+}
+
+.header-map .fa-map-marker:before {
+    color: #fff;
+    font-size: 14px;
+}
+
+.page-header__img-1 img {
+    width: 180px;
+    height: 180px;
+}
+
+.sidebar__post-content a {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 56px;
+}
+
+.testimonial-one__rating .fa-star:before {
+    position: absolute;
+}
+
+.testimonial-one__rating span.fas.fa-star {
+    width: 20px;
+}
+
+.pt10 {
+    padding-top: 10px;
+
+}
+
+.footer-widget__column.footer-widget__services a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+ul.slider.animated {
+    align-items: center;
+}
+
+.blog-details__author-box:has(.blog-details__author-text:empty) {
+    display: none;
+}
+
+.user-icon {
+    width: 90px;
+}
+
+/* ===== Blog Skeleton Loader ===== */
+.blog-skeleton {
+    padding: 15px;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+}
+
+.skeleton-img {
+    height: 200px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #eee 25%, #f5f5f5 37%, #eee 63%);
+    background-size: 400% 100%;
+    animation: shimmer 1.4s infinite;
+}
+
+.skeleton-text {
+    height: 14px;
+    margin-top: 15px;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #eee 25%, #f5f5f5 37%, #eee 63%);
+    background-size: 400% 100%;
+    animation: shimmer 1.4s infinite;
+}
+
+.skeleton-text.short {
+    width: 60%;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: 100% 0;
+    }
+
+    100% {
+        background-position: -100% 0;
+    }
+}
+
+
+
+
+
+#back-to-top {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    z-index: 10000;
+    transition: opacity .3s ease, transform .3s ease;
+    opacity: 0;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+#back-to-top.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+a.footer-bt {
+    width: 56px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    transition: all .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.header-address {
+    max-width: 475px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    cursor: pointer;
+}
+
+.header-address p {
+    cursor: pointer;
+}
+
+a.footer-bt::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width .6s, height .6s;
+}
+
+a.footer-bt:hover::before {
+    width: 100%;
+    height: 100%;
+}
+
+a.footer-bt:hover {
+    transform: scale(1.15) rotate(5deg);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+a.footer-bt:active {
+    transform: scale(0.95);
+}
+
+/* Phone button - Professional Blue */
+a.footer-bt:first-child {
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+}
+
+a.footer-bt:first-child:hover {
+    background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+}
+
+/* WhatsApp button - Official Green */
+a.footer-bt:last-child {
+    background: linear-gradient(135deg, #25D366 0%, #1da851 100%);
+}
+
+a.footer-bt:last-child:hover {
+    background: linear-gradient(135deg, #1da851 0%, #25D366 100%);
+}
+
+/* Icon styling */
+a.footer-bt i {
+    font-size: 24px;
+    position: relative;
+    z-index: 1;
+    transition: transform .3s ease;
+}
+
+a.footer-bt:hover i {
+    transform: scale(1.1);
+}
+
+/* WhatsApp custom image */
+a.footer-bt img.whatsapp-icon {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    z-index: 1;
+    transition: transform .3s ease;
+}
+
+a.footer-bt:hover img.whatsapp-icon {
+    transform: scale(1.1);
+}
+
+/* Tooltip */
+a.footer-bt::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    left: 70px;
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 8px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s ease;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Tooltip arrow */
+a.footer-bt::after {
+    clip-path: polygon(0 8px,
+            -8px 50%,
+            0 calc(100% - 8px),
+            100% calc(100% - 8px),
+            100% 8px);
+    padding-left: 20px;
+}
+
+a.footer-bt:hover::after {
+    opacity: 1;
+    left: 75px;
+}
+
+.page-loader {
+    position: fixed;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.85);
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.spinner {
+    width: 46px;
+    height: 46px;
+    border: 4px solid #ddd;
+    border-top: 4px solid #ada99d;
+    /* border-color:var(--suryaelectrician-primary);  */
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.page-loader p {
+    margin-top: 12px;
+    font-weight: 500;
+    color: #333;
+}
+.blog-load {
+    color: var(--suryaelectrician-black);
+    font-weight: 700;
+
+    /* multiline ellipsis */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    /* iOS Safari fix */
+    line-height: 1.5;
+    max-height: calc(1.5em * 2);
+
+    word-break: break-word;
+}
+
+.blog-load:hover {
+       color: var(--suryaelectrician-base);
+}
+
+/* Pulse animation for attention */
+@keyframes pulse {
+
+    0%,
+    100% {
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    50% {
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2),
+            0 0 0 8px rgba(37, 99, 235, 0.3);
+    }
+}
+
+a.footer-bt:first-child {
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse-whatsapp {
+
+    0%,
+    100% {
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    50% {
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2),
+            0 0 0 8px rgba(37, 211, 102, 0.3);
+    }
+}
+
+a.footer-bt:last-child {
+    animation: pulse-whatsapp 2s infinite;
+    animation-delay: 1s;
+}
+
+/* Responsive */
+@media only screen and (max-width: 768px) {
+
+    .main-slider .item,
+    .services-one {
+        padding: 12px 0 !important;
+    }
+
+    .carousel .control-dots {
+        margin: 2px 0;
+    }
+
+    .main-slider__title {
+        margin-bottom: 8px;
+    }
+
+    .blog-details__content {
+        margin-top: -15px;
+    }
+
+    .main-menu__logo {
+        padding: 5px 0;
+    }
+
+    .mobile-nav__content .logo-box {
+        margin-bottom: 10px;
+    }
+
+    .section-title.text-center {
+        padding-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .testimonial-one,
+    .about-one,
+    .video-one,
+    .project-one {
+        padding: 20px;
+    }
+
+    .brand-one__inner {
+        padding: 6px;
+    }
+
+    .counter-one {
+        margin-top: 0;
+    }
+
+    .services-one__title {
+        margin: 10px 0;
+    }
+
+    .services-one__single {
+        display: grid;
+        grid-template-columns: 30% 70%;
+        align-items: center;
+    }
+
+    p.services-one__text {
+        grid-area: 2 / 1 / 3 / 3;
+    }
+
+    .blog-details,
+    .blog-page {
+        padding: 20px 0 20px;
+    }
+
+    .blog-details .blog-details__date {
+        top: 5px;
+        right: 5px;
+
+    }
+
+    .blog-details__date,
+    .blog-one__date {
+        height: 50px;
+        width: 50px;
+    }
+
+    .page-header__inner {
+        padding: 0px 0;
+    }
+
+    #back-to-top {
+        bottom: 20px;
+        left: 20px;
+    }
+
+    a.footer-bt {
+        width: 40px;
+        height: 40px;
+        font-size: 22px;
+    }
+
+    .active .main-slider__btn-box {
+        justify-content: center;
+    }
+
+    a.footer-bt i {
+        font-size: 22px;
+    }
+
+    a.footer-bt img.whatsapp-icon {
+        width: 28px;
+        height: 28px;
+    }
+
+    .site-footer__top {
+        padding: 310px 0 15px;
+    }
+
+    .site-footer__bottom-text,
+    .site-footer__bottom-menu li a {
+        font-size: 14px;
+    }
+
+    .site-footer__bottom-text,
+    .site-footer__bottom-menu li+li {
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .site-footer__bottom-menu {
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0 15px;
+        align-items: center;
+    }
+
+    .services-two__title,
+    .services-two__single {
+        margin-bottom: 10px;
+    }
+
+    .services-two,
+    .brand-one,
+    .pricing-one,
+    .blog-one {
+        padding: 0 0 20px;
+    }
+
+    .testimonial-one .section-title,
+    .pricing-one .section-title {
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+
+    .counter-one__inner {
+        padding: 20px 0 10px;
+    }
+
+    .project-one__top {
+        margin-bottom: 25px;
+    }
+
+    .pricing-one__price-points li+li {
+        margin-top: 10px;
+    }
+
+    .pricing-one__btn-box {
+        margin-top: 20px;
+    }
+
+    .testimonial-one__text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        line-height: 16px;
+        max-height: 45px;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        padding-top: 10px;
+        margin-bottom: 10px;
+    }
+}
