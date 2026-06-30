@@ -11,7 +11,7 @@ import OurServiceTab from "../OurServiceTab/page";
 export const metadata: Metadata = {
   title: "AC Service & Installation in Surat | Expert AC Technicians",
   description:
-    "Looking for AC service and installation in Surat? We provide professional AC installation, repair, gas refilling, and maintenance services across all areas of Surat.",
+    "Looking for AC service and installation in Surat? We provide expert AC fitting, repair, gas refilling and preventive maintenance for homes, offices, and local businesses across Surat.",
   keywords: [
     // Core
     "AC service in Surat",
@@ -137,15 +137,11 @@ export default function ACServiceInstallationPage() {
                 </h3>
 
                 <p className="service-details__text-1">
-                  We provide professional AC service and installation in Surat
-                  for homes, offices, and commercial spaces. Our technicians
-                  handle split AC, window AC, and inverter AC systems.
+                  Get fast AC service and installation in Surat from certified technicians. We install and repair split AC, window AC, and inverter AC systems with clean wiring and proper mounting.
                 </p>
 
                 <p className="service-details__text-2">
-                  From new AC installation to gas refilling, repairs, and
-                  preventive maintenance, we ensure efficient cooling and long
-                  AC life with safe and reliable service.
+                  Whether you need a new AC installed, gas refilled, or a preventive service, our local Surat electricians deliver safe cooling solutions with reliable performance and long lifespan.
                 </p>
 
                 <ul className="service-details__points-list list-unstyled">
@@ -153,25 +149,25 @@ export default function ACServiceInstallationPage() {
                     <div className="icon">
                       <span className="icon-arrow-right"></span>
                     </div>
-                    <p>Split & window AC installation</p>
+                    <p>Split & window AC installation with clean wiring</p>
                   </li>
                   <li>
                     <div className="icon">
                       <span className="icon-arrow-right"></span>
                     </div>
-                    <p>AC gas refilling & leakage repair</p>
+                    <p>AC gas refill, leak repair, and performance tuning</p>
                   </li>
                   <li>
                     <div className="icon">
                       <span className="icon-arrow-right"></span>
                     </div>
-                    <p>AC servicing & preventive maintenance</p>
+                    <p>Preventive maintenance to extend AC life</p>
                   </li>
                   <li>
                     <div className="icon">
                       <span className="icon-arrow-right"></span>
                     </div>
-                    <p>Emergency AC repair services</p>
+                    <p>Same-day emergency AC repair across Surat</p>
                   </li>
                 </ul>
               </div>

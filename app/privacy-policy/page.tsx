@@ -58,9 +58,7 @@ export default function PrivacyPolicyPage() {
                 </h3>
 
                 <p className="service-details__text-1">
-                  This Privacy Policy explains how we collect, use, and protect
-                  your personal information when you use our electrician
-                  services in Surat.
+                  Your privacy matters to us. This Privacy Policy explains how we collect, use, and protect your information when you contact us or request electrician services in Surat.
                 </p>
 
                 <h3 className="service-details__title-2">
@@ -80,7 +78,7 @@ export default function PrivacyPolicyPage() {
                     <div className="icon">
                       <span className="icon-arrow-right"></span>
                     </div>
-                    <p>To provide electrician services</p>
+                    <p>To respond to service requests and schedule electrician visits.</p>
                   </li>
                   <li>
                     <div className="icon">
@@ -109,8 +107,7 @@ export default function PrivacyPolicyPage() {
                   Data Security
                 </h3>
                 <p className="service-details__text-2">
-                  We take reasonable security measures to protect your personal
-                  information from unauthorized access or misuse.
+                  We take reasonable security measures to protect your personal information from unauthorized access or misuse while managing electrician service requests.
                 </p>
 
                 <h3 className="service-details__title-2">

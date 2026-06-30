@@ -15,7 +15,7 @@ import headerImg1 from "@/public/assets/images/resources/page-header-img-1.png";
 export const metadata = {
   title: "Contact Electrician in Surat | Get Free Quote Today",
   description:
-    "Contact our certified electricians in Surat for residential and commercial electrical services. Call now or request a free quote online.",
+    "Contact certified electricians in Surat for fast residential and commercial electrical services. Call now or request a free quote for repairs, installations, and emergency support across Surat.",
   alternates: {
     canonical: "https://www.suryaelectrician.com/contact",
   },
@@ -143,6 +143,9 @@ export default function Contact() {
                   <h2 className="contact-three__form-title">
                     Get a Free Quote
                   </h2>
+                  <p className="contact-three__form-text">
+                    Share your service details and we will respond with a clear quote, often the same day.
+                  </p>
                 {/* <ContactForm/> */}
               </div>
               </div>

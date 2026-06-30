@@ -107,16 +107,14 @@ export default function ElectricPanelRepair() {
                 <p className="service-details__text-1">
                   Our expert electricians provide reliable electric panel repair
                   services in Surat to ensure your home or business electrical
-                  system operates safely and efficiently. A faulty electrical
-                  panel can cause power failures, fire hazards, and appliance
-                  damage.
+                  system operates safely and efficiently. A damaged or overloaded
+                  panel can cause power failures, tripping breakers, and safety risks.
                 </p>
 
                 <p className="service-details__text-2">
-                  We specialize in diagnosing panel issues, replacing damaged
-                  breakers, upgrading outdated panels, and ensuring compliance
-                  with electrical safety standards. Whether you need residential
-                  or commercial panel repair, our licensed team is ready to help.
+                  We diagnose panel faults, replace damaged breakers, upgrade
+                  outdated panels, and deliver code-compliant solutions for both
+                  residential and commercial properties.
                 </p>
 
                 <ul className="service-details__points-list list-unstyled">
@@ -130,7 +128,7 @@ export default function ElectricPanelRepair() {
                     <div className="icon">
                       <span className="icon-arrow-right"></span>
                     </div>
-                    <p>Breaker replacement and overload protection</p>
+                    <p>Breaker replacement, overload protection, and safety upgrades</p>
                   </li>
                   <li>
                     <div className="icon">

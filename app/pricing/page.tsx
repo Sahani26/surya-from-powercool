@@ -84,7 +84,7 @@ export default function PricingPage() {
             <Link href="mailto:suryaelectrician24@gmail.com">
               suryaelectrician24@gmail.com
             </Link>{' '}
-            for a fast quote.
+            for a transparent price estimate and fast electrician quote.
           </p>
         </div>
       </div>

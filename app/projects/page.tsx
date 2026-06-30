@@ -9,8 +9,8 @@ import headerImg1 from "@/public/assets/images/resources/page-header-img-1.png";
 import Link from "next/link"
 // ⭐ SEO Metadata
 export const metadata = {
-  title: "Our Projects | suryaelectrician",
-  description: "Explore our latest projects, portfolio, and completed works.",
+  title: "Our Projects | Electrical Work Portfolio in Surat",
+  description: "Explore completed electrical and AC service projects by surya electrician in Surat, including repairs, installations, and safety upgrades.",
 };
 
 export default function page() {

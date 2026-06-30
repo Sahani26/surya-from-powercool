@@ -34,7 +34,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Short Circuit Repair in Surat | Emergency Electrician Near You",
   description:
-    "Need short circuit repair in Surat? Our expert electricians provide fast and safe short circuit repair services across all areas of Surat for homes and businesses.",
+    "Need short circuit repair in Surat? Our expert electricians provide fast, safe, and reliable short circuit repair services across all areas of Surat for homes and businesses.",
   keywords: [
     "Short circuit repair in Surat",
     "Emergency electrician in Surat",
@@ -120,11 +120,11 @@ export default function ShortCircuitRepair() {
                 <p className="service-details__text-1">
                   If you are facing frequent power trips or electrical faults,
                   our professional electricians in Surat provide fast and reliable
-                  short circuit repair services to ensure safety.
+                  short circuit repair services to restore safety quickly.
                 </p>
 
                 <p className="service-details__text-2">
-                  We diagnose wiring issues, damaged circuits, and faulty connections
+                  We diagnose wiring problems, damaged circuits, and faulty connections
                   using safe and modern techniques for homes and commercial spaces
                   across Surat.
                 </p>
@@ -136,7 +136,7 @@ export default function ShortCircuitRepair() {
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Safe repair with proper insulation</p>
+                    <p>Safe repair with proper insulation and wiring checks</p>
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>

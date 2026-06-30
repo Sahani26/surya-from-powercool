@@ -14,7 +14,12 @@ import headerImg from "@/public/assets/images/resources/page-header-img-1.png";
 export const metadata = {
   title: "Frequently Asked Questions | Electrician Services in Surat",
   description:
-    "Find answers to common questions about electrical services, repairs, pricing, and safety. Get expert electrician FAQs for homes and businesses in Surat.",
+    "Find answers to common questions about electrical services, repairs, pricing, and safety in Surat. Get expert electrician FAQs for homes and businesses.",
+  keywords: [
+    "Electrician FAQ Surat",
+    "electrical service questions Surat",
+    "electrician questions Surat",
+  ],
   alternates: {
     canonical: "https://www.suryaelectrician.com/faq",
   },
@@ -57,6 +62,14 @@ export default function FAQPage() {
               </ul>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section className="faq-page-intro">
+        <div className="container">
+          <p>
+            Get answers to the most common electrical questions for homes and businesses in Surat. Learn how our certified electricians handle repairs, installations, and emergency service requests.
+          </p>
         </div>
       </section>
 

@@ -17,7 +17,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Electrical Project Details | Professional Electrical Work Showcase",
   description:
-    "Explore our completed electrical project showcasing professional wiring upgrade, maintenance, and electrical solutions delivered with quality and safety.",
+    "Explore our completed electrical project in Surat showcasing a professional wiring upgrade, maintenance work, and electrical safety improvements delivered with quality and care.",
   keywords: [
     "Electrical project details",
     "Electrical work portfolio",
@@ -204,7 +204,7 @@ export default function ProjectDetails() {
                     </li>
                     <li>
                       <h4>Location :</h4>
-                      <p>12 Green Road 05 New York</p>
+                      <p>Surat, Gujarat, India</p>
                     </li>
                   </ul>
                 </div>

@@ -15,13 +15,13 @@ import CTA from "@/public/components/CTA";
 export const metadata = {
   title: "About Us – Trusted Electrician Services in Surat | surya electrician",
   description:
-    "Learn about our professional electrician services in Surat. We provide safe, affordable, and reliable home and commercial electrical solutions.",
+    "Learn why surya electrician is one of the most trusted electrician companies in Surat. We deliver safe, affordable, and reliable electrical repair, installation, and maintenance services.",
   keywords: [
-    "about electrician company",
-    "electrician in Surat",
-    "home electrical services",
-    "commercial electrician",
-    "emergency electrician",
+    "about electrician company Surat",
+    "trusted electrician Surat",
+    "home electrical services Surat",
+    "commercial electrician Surat",
+    "emergency electrician Surat",
   ],
   alternates: {
     canonical: "https://www.suryaelectrician.com/about-us",

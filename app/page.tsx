@@ -19,7 +19,7 @@ import Sleder from "../public/components/Slider";
 export const metadata: Metadata = {
   title: "Electrician & AC Services in Surat | surya electrician",
   description:
-    "surya electrician provides professional electrician and AC services in Surat. AC installation, AC repair, electrical repair, maintenance, short circuit repair, and more.",
+    "surya electrician delivers trusted home and commercial electrical services in Surat, including AC installation, AC repair, wiring maintenance, short circuit repair, and emergency support.",
   keywords: [
     "Electrician in Surat",
     "AC service in Surat",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Electrician & AC Services in Surat | surya electrician",
     description:
-      "Trusted electrician and AC service provider in Surat. Fast service, expert technicians, affordable pricing.",
+      "Trusted electrician and AC service provider in Surat, serving homes and businesses with fast response, expert technicians, and transparent pricing.",
     url: "https://www.suryaelectrician.com",
     siteName: "surya electrician",
     locale: "en_IN",

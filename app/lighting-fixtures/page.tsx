@@ -147,13 +147,14 @@ export default function LightingFixturesPage() {
                 <p className="service-details__text-1">
                   We provide professional lighting and fixtures installation services
                   in Surat for homes, offices, shops, and commercial spaces. Our
-                  certified electricians ensure safe wiring and perfect finishing.
+                  certified electricians ensure safe wiring, precise fitting, and
+                  clean finishing.
                 </p>
 
                 <p className="service-details__text-2">
-                  Whether you need LED lights, decorative fixtures, wall lights,
-                  ceiling lights, or chandeliers installed, we deliver reliable and
-                  affordable solutions with complete safety.
+                  Whether you need LED lights, wall lights, ceiling fixtures, or
+                  decorative chandeliers installed, we deliver reliable, affordable
+                  lighting solutions with thorough safety checks.
                 </p>
 
                 <ul className="service-details__points-list list-unstyled">
