@@ -1,8 +1,8 @@
-⚡❄️ surya Electrician – AC, Refrigerator & Electrical Services
+⚡❄️ Surya Electrician – AC, Refrigerator & Electrical Services
 
 🌐 Live Website: https://www.suryaelectrician.com/
 
-surya Electrician provides fast, reliable, and professional Cooling & Electrical Services including AC repair, refrigerator repair, home wiring, and electrical installation with on-site support.
+Surya Electrician provides fast, reliable, and professional Cooling & Electrical Services including AC repair, refrigerator repair, home wiring, and electrical installation with on-site support.
 
 🚀 Our Services
 ❄️ Cooling Services
@@ -69,9 +69,9 @@ vercel --prod
 
 Or connect your GitHub repository directly to the Vercel dashboard.
 
-📌 About surya Electrician
+📌 About Surya Electrician
 
-surya Electrician is committed to delivering:
+Surya Electrician is committed to delivering:
 
 🔧 Reliable technical service
 

@@ -67,7 +67,7 @@ export default function About() {
     <div className="section-title text-left">
       <div className="section-title__tagline-box">
         <span className="section-title__tagline">
-          About surya electrician
+          About Surya Electrician
         </span>
       </div>
  
@@ -82,7 +82,7 @@ export default function About() {
 </div>
 
 <p className="about-one__text-1">
-  surya electrician is a trusted electrical service provider in Surat,
+  Surya Electrician is a trusted electrical service provider in Surat,
   offering professional electrical installation, repair, maintenance,
   and troubleshooting solutions. We specialize in house wiring,
   switchboard repair, fan installation, MCB replacement, inverter
@@ -115,7 +115,7 @@ export default function About() {
   <Link
     href="/about-us"
     className="about-one__btn thm-btn"
-    aria-label="Learn more about surya electrician in Surat"
+    aria-label="Learn more about Surya Electrician in Surat"
   >
     Learn More About Us
   </Link>

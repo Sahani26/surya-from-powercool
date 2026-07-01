@@ -17,7 +17,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Electrical Project Details | Professional Electrical Work Showcase",
   description:
-    "Explore our completed electrical project in Surat showcasing a professional wiring upgrade, maintenance work, and electrical safety improvements delivered with quality and care.",
+    "Explore our completed electrical project showcasing professional wiring upgrade, maintenance, and electrical solutions delivered with quality and safety.",
   keywords: [
     "Electrical project details",
     "Electrical work portfolio",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     canonical: "https://www.suryaelectrician.com/project-details",
   },
   openGraph: {
-    title: "Electrical Project Details | surya electrician",
+    title: "Electrical Project Details | Surya Electrician",
     description:
       "View detailed information about our completed electrical project including challenges, solutions, and final results.",
     url: "https://www.suryaelectrician.com/project-details",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
       },
     ],
     locale: "en_IN",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     type: "website",
   },
   robots: {
@@ -204,7 +204,7 @@ export default function ProjectDetails() {
                     </li>
                     <li>
                       <h4>Location :</h4>
-                      <p>Surat, Gujarat, India</p>
+                      <p>12 Green Road 05 New York</p>
                     </li>
                   </ul>
                 </div>
@@ -225,7 +225,7 @@ export default function ProjectDetails() {
                         <span className="icon-call"></span>
                       </div>
                       <p>
-                        <Link href="tel:+919428654794">+91 9428654794</Link>
+                        <Link href="tel:+919023915357">+91 9023915357</Link>
                       </p>
                     </li>
                     <li>
@@ -233,8 +233,8 @@ export default function ProjectDetails() {
                         <span className="icon-envelope"></span>
                       </div>
                       <p>
-                        <Link href="mailto:suryaelectrician24@gmail.com">
-                          suryaelectrician24@gmail.com
+                        <Link href="mailto:suryaelectrician@gmail.com">
+                          suryaelectrician@gmail.com
                         </Link>
                       </p>
                     </li>

@@ -20,7 +20,7 @@ export default function TestimonialsPage() {
         <title>Customer Testimonials | Trusted Electrician Services in Surat</title>
         <meta
           name="description"
-          content="Read genuine customer testimonials for our electrician services in Surat. Trusted by homeowners and businesses for fast, reliable electrical work."
+          content="Read genuine customer testimonials for our electrician services in Surat. Trusted by homeowners and businesses for reliable electrical work."
         />
         <meta
           name="keywords"
@@ -83,7 +83,7 @@ export default function TestimonialsPage() {
           <h2 className="text-center mb-4">Our Happy Clients</h2>
 
           <p className="text-center">
-            Real reviews from customers across Surat who trust our electrician services for fast repairs, safe installations, and dependable support.
+            Real reviews from customers across Surat who trust our electrician services.
           </p>
         </div>
       </section>

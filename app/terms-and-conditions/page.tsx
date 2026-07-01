@@ -58,7 +58,9 @@ export default function TermsAndConditionsPage() {
                 </h3>
 
                 <p className="service-details__text-1">
-                  These Terms and Conditions govern the use of our website and electrician services in Surat. By requesting or using our services, you agree to these terms.
+                  These Terms and Conditions govern the use of our website and
+                  electrician services in Surat. By accessing or using our
+                  services, you agree to comply with these terms.
                 </p>
 
                 <h3 className="service-details__title-2">
@@ -75,7 +77,9 @@ export default function TermsAndConditionsPage() {
                   2. Service Booking
                 </h3>
                 <p className="service-details__text-2">
-                  Service requests can be made through our website, phone call, or other communication channels. Booking confirmation depends on availability, service type, and location.
+                  Service requests can be made through our website, phone call,
+                  or other communication channels. Booking confirmation depends
+                  on availability and service location.
                 </p>
 
                 <h3 className="service-details__title-2">

@@ -49,10 +49,10 @@ export default function CTA() {
                 <p>Make a call</p>
                 <h4>
                   <Link
-                    href="tel:+919428654794"
+                    href="tel:+919023915357"
                     aria-label="Call electrician in Surat"
                   >
-                    +91 94286 54794
+                    +91 90239 15357
                   </Link>
                 </h4>
               </div>

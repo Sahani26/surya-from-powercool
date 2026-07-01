@@ -52,8 +52,8 @@ export default function Error404Page() {
                 <div className="error-page__title-box">
                   <h2 className="error-page__title">404</h2>
                 </div>
-                <h3 className="error-page__tagline">Oops! We couldn't find that page.</h3>
-                <p className="error-page__text">The page may have moved or the link may be incorrect. Use the search below or return to the home page for electrician services.</p>
+                <h3 className="error-page__tagline">Sorry, we can't find that page!</h3>
+                <p className="error-page__text">The page you are looking for does not exist.</p>
                 <form className="error-page__form">
                   <div className="error-page__form-input">
                     <input type="search" placeholder="Search here" />

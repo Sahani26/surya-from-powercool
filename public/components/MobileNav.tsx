@@ -31,8 +31,8 @@ export default function MobileNav() {
           <ul className="mobile-nav__contact list-unstyled">
             <li>
               <i className="fa fa-envelope"></i>
-              <Link href="mailto:suryaelectrician24@gmail.com">
-                suryaelectrician24@gmail.com
+              <Link href="mailto:suryaelectrician@gmail.com">
+                suryaelectrician@gmail.com
               </Link>
             </li>
             <li>

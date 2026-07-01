@@ -19,7 +19,7 @@ export const metadata = {
   title:
     "Commercial Electrical Services in Surat | Trusted Business Electricians",
   description:
-    "Need commercial electrical services in Surat? We provide office, retail, warehouse and industrial electrical installation, maintenance and emergency repair with certified electricians.",
+    "Looking for reliable commercial electrical services in Surat? We provide office, factory, and industrial electrical installation, maintenance, and repair services with certified electricians.",
   keywords: [
     "commercial electrical services in Surat",
     "commercial electrician Surat",
@@ -36,7 +36,7 @@ export const metadata = {
     description:
       "Expert commercial electricians in Surat offering safe, reliable, and affordable electrical services for offices, factories, and businesses.",
     url: "https://www.suryaelectrician.com/services/commercial-services",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     type: "website",
   },
   robots: {
@@ -87,10 +87,10 @@ export default function CommercialServices() {
                 </div>
                 <h2 className="service-details__title-1">Commercial Electrical Services</h2>
                 <p className="service-details__text-1">
-                  surya electrician delivers commercial electrical services across Surat for offices, retail outlets, warehouses, and industrial spaces. Our certified electricians handle lighting upgrades, power distribution, switchboard installations, and preventive maintenance.
+                  Surya Electrician delivers commercial electrical services across Surat for offices, retail outlets, warehouses, and industrial spaces. Our certified electricians handle lighting upgrades, power distribution, switchboard installations, and maintenance.
                 </p>
                 <p className="service-details__text-2">
-                  Need a new business electrical installation, routine maintenance, or urgent commercial repair? We provide reliable, safety-first solutions with minimal disruption to your operations.
+                  Whether you need a new business installation, regular maintenance, or emergency commercial repair, we provide reliable solutions with safety, efficiency, and minimal disruption.
                 </p>
 
                 <ul className="service-details__points-list list-unstyled">
@@ -100,15 +100,15 @@ export default function CommercialServices() {
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Switchboard upgrades, safety inspections, and load balancing</p>
+                    <p>Switchboard upgrades and electrical safety inspections</p>
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Preventive maintenance to keep your business running smoothly</p>
+                    <p>Preventive maintenance for business continuity</p>
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Emergency electrical repair support for Surat businesses</p>
+                    <p>Emergency commercial electrical repairs in Surat</p>
                   </li>
                 </ul>
 

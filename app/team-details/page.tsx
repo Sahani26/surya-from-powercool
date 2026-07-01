@@ -11,7 +11,7 @@ import Link from "next/link";
 export const metadata = {
   title: "Professional Electrician in Surat | suryaelectrician Team Expert",
   description:
-    "Meet the expert electrician at suryaelectrician in Surat. We provide trusted home electrical repair, wiring, fan installation, switchboard repair, AC power solutions and emergency electrician services in Pal, Adajan and nearby areas.",
+    "Meet the expert electrician at suryaelectrician in Surat. We provide home electrical repair, wiring, fan installation, switchboard repair, AC power solutions, and emergency electrician services in Pal, Adajan, and nearby areas.",
   keywords:
     "Electrician in Surat, Home electrician Pal, Electrician Adajan, suryaelectrician, Electrical repair Surat, Switchboard repair, Fan installation, Wiring services, Emergency electrician Surat",
 };
@@ -75,8 +75,8 @@ export default function TeamDetails() {
                           <span className="icon-envelope"></span>
                         </div>
                         <p>
-                          <Link href="mailto:suryaelectrician24@gmail.com">
-                            suryaelectrician24@gmail.com
+                          <Link href="mailto:suryaelectrician@gmail.com">
+                            suryaelectrician@gmail.com
                           </Link>
                         </p>
                       </li>
@@ -86,7 +86,7 @@ export default function TeamDetails() {
                           <span className="icon-phone-call"></span>
                         </div>
                         <p>
-                          <Link href="tel:+919428654794">+91-9428654794</Link>
+                          <Link href="tel:+919023915357">+91-9023915357</Link>
                         </p>
                       </li>
 
@@ -129,11 +129,11 @@ export default function TeamDetails() {
                   <h3 className="team-details__title-2">Professional Electrical Skills</h3>
 
                   <p className="team-details__text-2">
-                    Our expertise includes full home electrical maintenance, 
-                    fault finding, MCB replacement, short circuit repair, 
+                    Our expertise includes complete home electrical maintenance, 
+                    fault finding, MCB replacement, short-circuit repair, 
                     power backup solutions, inverter wiring, and emergency 
-                    electrical service. We deliver safety, efficiency, and 
-                    affordable pricing on every job.
+                    electrician services in Surat. We focus on safety, 
+                    efficiency, and affordable pricing for every customer.
                   </p>
 
                   <ul className="team-details__progress-list list-unstyled">

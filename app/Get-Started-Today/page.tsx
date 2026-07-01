@@ -27,8 +27,8 @@ export default function GetStartedToday() {
             <span className="icon-call"></span>
           </div>
           <p>
-            <Link href="tel:+919428654794">
-              Call Us: +91 9428654794
+            <Link href="tel:+919023915357">
+              Call Us: +91 9023915357
             </Link>
           </p>
         </li>
@@ -38,8 +38,8 @@ export default function GetStartedToday() {
             <span className="icon-envelope"></span>
           </div>
           <p>
-            <Link href="mailto:suryaelectrician24@gmail.com">
-              Email: suryaelectrician24@gmail.com
+            <Link href="mailto:suryaelectrician@gmail.com">
+              Email: suryaelectrician@gmail.com
             </Link>
           </p>
         </li>

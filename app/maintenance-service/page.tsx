@@ -139,13 +139,13 @@ export default function MaintenanceServicePage() {
                 <p className="service-details__text-1">
                   Our electrical maintenance service in Surat helps keep your home
                   and workplace safe, efficient, and trouble-free. We handle routine
-                  inspections, fault detection, and timely repairs to prevent problems.
+                  inspections, fault detection, and timely repairs.
                 </p>
 
                 <p className="service-details__text-2">
                   From preventive maintenance to emergency electrical fixes, our
                   experienced electricians ensure reliable performance and long-term
-                  safety for every electrical system.
+                  safety for all electrical systems.
                 </p>
 
                 <ul className="service-details__points-list list-unstyled">

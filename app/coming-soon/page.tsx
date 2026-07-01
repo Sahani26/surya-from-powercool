@@ -40,9 +40,9 @@ export default function ComingSoonPage() {
 
             <div className="text">
               <p>
-                Our electrician service website is getting a fresh update.
+                Website is under construction. We'll be here soon with new
                 <br />
-                Subscribe to get launch alerts, service updates, and priority booking.
+                awesome site, Subscribe to be notified.
               </p>
             </div>
 

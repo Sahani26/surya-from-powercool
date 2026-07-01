@@ -10,25 +10,45 @@ import OurServiceTab from "../OurServiceTab/page";
 
 /* ================= SEO META ================= */
 export const metadata: Metadata = {
-  title: "Ceiling Fan Installation Service in Surat | Safe, Fast Electrician",
+  title: "Ceiling Fan Installation in Surat | Professional Electrician Service",
   description:
-    "Get professional ceiling fan installation in Surat from certified electricians. Fast, safe, and affordable ceiling fan fitting for homes, shops, and offices.",
+    "Looking for ceiling fan installation in Surat? Our expert electricians provide safe, fast, and affordable ceiling fan fitting services across all areas of Surat.",
   keywords: [
+    // Core Service
     "Ceiling fan installation in Surat",
-    "Ceiling fan electrician Surat",
-    "fan installation service Surat",
-    "ceiling fan wiring Surat",
-    "remote fan installation Surat",
-    "hotel ceiling fan installation Surat",
-    "office ceiling fan installation Surat",
-    "home ceiling fan installation Surat",
-    "same day ceiling fan installation Surat",
-    "affordable ceiling fan installation Surat",
-    "ceiling fan replacement Surat",
-    "fan installation electrician Surat",
-    "ceiling fan balancing service Surat",
-    "electrical fan installation Surat",
-    "Surat ceiling fan installer",
+    "Electrician in Surat",
+    "Ceiling fan fitting service",
+    "Home electrician Surat",
+    "Fan installation near me",
+
+    // Popular Surat Areas
+    "Ceiling fan installation in Vesu",
+    "Ceiling fan installation in Adajan",
+    "Ceiling fan installation in Katargam",
+    "Ceiling fan installation in Varachha",
+    "Ceiling fan installation in City Light",
+    "Ceiling fan installation in Pal",
+    "Ceiling fan installation in Piplod",
+    "Ceiling fan installation in Udhna",
+    "Ceiling fan installation in Althan",
+    "Ceiling fan installation in Bhatar",
+
+    // Electrician Keywords by Area
+    "Electrician in Vesu Surat",
+    "Electrician in Adajan Surat",
+    "Electrician in Varachha Surat",
+    "Electrician in Katargam Surat",
+    "Electrician in City Light Surat",
+    "Electrician in Pal Surat",
+    "Electrician in Piplod Surat",
+    "Electrician in Udhna Surat",
+
+    // Intent Based (High Conversion)
+    "Best electrician for ceiling fan installation Surat",
+    "Affordable ceiling fan installation Surat",
+    "Professional electrician Surat",
+    "Same day fan installation Surat",
+    "Residential ceiling fan installation Surat",
   ],
 
   alternates: {
@@ -138,33 +158,29 @@ export default function InstallingCeilingFanPage() {
                 </h3>
 
                 <p className="service-details__text-1">
-                  Our certified electricians install ceiling fans across Surat with secure mounting, proper wiring, and neat finishing. We handle new fan fitments, replacement installations, and complete electrical connection work for every room.
+                  Our electricians install ceiling fans safely and securely, including mounting, wiring, and switchboard connections. We handle all fan types and ensure the job is completed with clean finishing.
                 </p>
 
                 <p className="service-details__text-2">
-                  From bedrooms and living rooms to shops and offices, we offer fast, affordable ceiling fan installation with safety checks, load balancing, and performance testing to ensure reliable, quiet operation.
-                </p>
-
-                <p className="service-details__text-2">
-                  Book same-day ceiling fan installation in Surat and get expert support for remote control setup, energy-efficient fan upgrades, and clean electrical panel connections.
+                  Whether you need a new ceiling fan installed or an old unit replaced, we provide fast and affordable service across Surat with proper balance, wiring checks, and performance testing.
                 </p>
 
                 <ul className="service-details__points-list list-unstyled">
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Professional ceiling fan installation and wiring</p>
+                    <p>Safe ceiling fan mounting and wiring</p>
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Balanced mounting for quiet, wobble-free operation</p>
+                    <p>Balanced installation for quiet operation</p>
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Switchboard connection, remote setup, and safety earthing</p>
+                    <p>Switchboard setup and remote control installation</p>
                   </li>
                   <li>
                     <div className="icon"><span className="icon-arrow-right"></span></div>
-                    <p>Residential and commercial fan installation across Surat</p>
+                    <p>Residential and commercial fan services</p>
                   </li>
                 </ul>
               </div>

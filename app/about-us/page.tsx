@@ -13,15 +13,15 @@ import CTA from "@/public/components/CTA";
    SEO METADATA
 ========================= */
 export const metadata = {
-  title: "About Us – Trusted Electrician Services in Surat | surya electrician",
+  title: "About Us – Trusted Electrician Services in Surat | Surya Electrician",
   description:
-    "Learn why surya electrician is one of the most trusted electrician companies in Surat. We deliver safe, affordable, and reliable electrical repair, installation, and maintenance services.",
+    "Learn about our professional electrician services in Surat. We provide safe, affordable, and reliable home and commercial electrical solutions.",
   keywords: [
-    "about electrician company Surat",
-    "trusted electrician Surat",
-    "home electrical services Surat",
-    "commercial electrician Surat",
-    "emergency electrician Surat",
+    "about electrician company",
+    "electrician in Surat",
+    "home electrical services",
+    "commercial electrician",
+    "emergency electrician",
   ],
   alternates: {
     canonical: "https://www.suryaelectrician.com/about-us",
@@ -31,7 +31,7 @@ export const metadata = {
     description:
       "Trusted electrician company in Surat offering residential and commercial electrical services.",
     url: "https://www.suryaelectrician.com/about-us",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     images: [
       {
         url: "https://www.suryaelectrician.com/og-about.jpg",
@@ -123,7 +123,7 @@ export default async function Page() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            name: "surya electrician",
+            name: "Surya Electrician",
             url: "https://www.suryaelectrician.com",
             areaServed: "Surat",
             serviceType: "Electrician Services",

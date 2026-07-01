@@ -239,8 +239,8 @@ export default function Header() {
                                 </div>
                                 <div className="text header-mail">
                                     <p>
-                                        <Link href="mailto:suryaelectrician24@gmail.com" aria-label="Email electrician service">
-                                            suryaelectrician24@gmail.com
+                                        <Link href="mailto:suryaelectrician@gmail.com" aria-label="Email electrician service">
+                                            suryaelectrician@gmail.com
                                         </Link>
                                     </p>
                                 </div>
@@ -253,8 +253,8 @@ export default function Header() {
                                 </div>
                                 <div className="text">
                                     <p>
-                                        <Link href="tel:+919428654794" aria-label="Call electrician in Surat">
-                                            +91 94286 54794
+                                        <Link href="tel:+919023915357" aria-label="Call electrician in Surat">
+                                            +91 90239 15357
                                         </Link>
                                     </p>
                                 </div>
@@ -266,10 +266,13 @@ export default function Header() {
                                     <i className="fa fa-map-marker"></i>
                                 </div>
                                 <div className="text header-address"
-                                    title="G12 Samrat Vihar Complex, Honey Park Rd, Adajan Gam, Adajan,Gujrat - 395009"
+                                    title="Govindji Park, L-101,
+Umra Gam, Piplod,
+Surat, Gujarat 395007"
                                 >
-                                    <p>G12 Samrat Vihar Complex, Honey Park Rd, Adajan Gam, Adajan,
-                                        Gujarat - 395009</p>
+                                    <p>Govindji Park, L-101,
+                                        Umra Gam, Piplod,
+                                        Surat, Gujarat 395007</p>
                                 </div>
                             </li>
                         </ul>
@@ -457,11 +460,11 @@ export default function Header() {
                     <ul className="mobile-nav__contact list-unstyled">
                         <li>
                             <i className="fa fa-envelope"></i>
-                            <Link href="mailto:suryaelectrician24@gmail.com">suryaelectrician24@gmail.com</Link>
+                            <Link href="mailto:suryaelectrician@gmail.com">suryaelectrician@gmail.com</Link>
                         </li>
                         <li>
                             <i className="fas fa-phone"></i>
-                            <Link href="tel:+919428654794">+91 942133314</Link>
+                            <Link href="tel:+919023915357">+91 942133314</Link>
                         </li>
                     </ul>
 

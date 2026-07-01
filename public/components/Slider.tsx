@@ -96,7 +96,7 @@ export default function Slider() {
 
                   <div className="main-slider__btn-box">
                     <Link
-                      href="tel:+919428654794"
+                      href="tel:+919023915357"
                       className="main-slider__btn thm-btn call-btn"
                       itemProp="telephone"
                     >
@@ -104,7 +104,7 @@ export default function Slider() {
                     </Link>
 
                     <Link
-                      href="https://wa.me/919428654794"
+                      href="https://wa.me/919023915357"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="main-slider__btn thm-btn whatsapp-btn"

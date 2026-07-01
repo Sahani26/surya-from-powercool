@@ -15,7 +15,7 @@ import headerImg1 from "@/public/assets/images/resources/page-header-img-1.png";
 export const metadata = {
   title: "Contact Electrician in Surat | Get Free Quote Today",
   description:
-    "Contact certified electricians in Surat for fast residential and commercial electrical services. Call now or request a free quote for repairs, installations, and emergency support across Surat.",
+    "Contact our certified electricians in Surat for residential and commercial electrical services. Call now or request a free quote online.",
   alternates: {
     canonical: "https://www.suryaelectrician.com/contact",
   },
@@ -84,7 +84,7 @@ export default function Contact() {
                 </div>
                 <p>Call Us</p>
                 <h3>
-                  <Link href="tel:+919428654794">+91 9428654794</Link>
+                  <Link href="tel:+919023915357">+91 9023915357</Link>
                 </h3>
               </div>
             </div>
@@ -96,8 +96,8 @@ export default function Contact() {
                 </div>
                 <p>Email Us</p>
                 <h3>
-                  <Link href="mailto:suryaelectrician24@gmail.com">
-                    suryaelectrician24@gmail.com
+                  <Link href="mailto:suryaelectrician@gmail.com">
+                    suryaelectrician@gmail.com
                   </Link>
                 </h3>
               </div>
@@ -143,9 +143,6 @@ export default function Contact() {
                   <h2 className="contact-three__form-title">
                     Get a Free Quote
                   </h2>
-                  <p className="contact-three__form-text">
-                    Share your service details and we will respond with a clear quote, often the same day.
-                  </p>
                 {/* <ContactForm/> */}
               </div>
               </div>
@@ -171,7 +168,7 @@ export default function Contact() {
               addressCountry: "IN",
             },
             telephone: "+91-90239-15357",
-            email: "suryaelectrician24@gmail.com",
+            email: "suryaelectrician@gmail.com",
             url: "https://www.suryaelectrician.com/contact",
           }),
         }}

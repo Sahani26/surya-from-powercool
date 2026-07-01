@@ -30,7 +30,7 @@ export default function Footer() {
                     </Link>
                   </div>
                  <p className="footer-widget__about-text">
-  surya electrician provides professional electrical services
+  Surya Electrician provides professional electrical services
   in Surat for homes, offices, shops, and commercial spaces.
   <br />
   We specialize in wiring, lighting installation, fan fitting,
@@ -169,13 +169,13 @@ export default function Footer() {
                       <h3>Contact</h3>
                       <div className="content">
                         <p>
-                          <Link href="tel:+919428654794">
-                            +91 94286 54794
+                          <Link href="tel:+919023915357">
+                            +91 90239 15357
                           </Link>
                         </p>
                         <p>
-                          <Link href="mailto:suryaelectrician24@gmail.com">
-                            suryaelectrician24@gmail.com
+                          <Link href="mailto:suryaelectrician@gmail.com">
+                            suryaelectrician@gmail.com
                           </Link>
                         </p>
                       </div>
@@ -183,11 +183,14 @@ export default function Footer() {
                     <li>
                       <h3>Address</h3>
                       <div className="content"
-                      title="G12 Samrat Vihar Complex, Honey Park Rd, Adajan Gam, Adajan,Gujrat - 395009"
+                      title="Govindji Park, L-101,
+Umra Gam, Piplod,
+Surat, Gujarat 395007"
 >
                         <p>
-                          G12 Samrat Vihar Complex, Honey Park Rd, Adajan Gam, Adajan,
-                          Gujarat - 395009 Gujarat, India
+                          Govindji Park, L-101,
+Umra Gam, Piplod,
+Surat, Gujarat 395007 Gujarat, India
                         </p>
                       </div>
                     </li>
@@ -223,7 +226,7 @@ export default function Footer() {
 
       <div id="back-to-top" className="show">
         <Link
-          href="tel:+919428654794"
+          href="tel:+919023915357"
           className="footer-bt"
           data-tooltip="Call Now"
         >
@@ -231,7 +234,7 @@ export default function Footer() {
         </Link>
 
         <Link
-          href="https://wa.me/9428654794"
+          href="https://wa.me/9023915357"
           target="_blank"
           rel="noopener noreferrer"
           className="footer-bt"

@@ -7,28 +7,28 @@ import CTA from "@/public/components/CTA";
 
 /* ================= SEO META ================= */
 export const metadata: Metadata = {
-  title: "Electrician Services in Surat | Home & Commercial Electrical Repairs",
+  title: "Electrician Services in Surat | Home & Commercial Electrical Services",
   description:
-    "Trusted electrician services in Surat for homes and businesses. Fast electrical repair, installation, maintenance and emergency support with certified technicians.",
+    "Discover electrician services in Surat for homes and businesses, including repairs, installations, maintenance, and emergency electrical support.",
   keywords: [
     "Electrician services in Surat",
     "Electrical repair Surat",
-    "Emergency electrician Surat",
-    "Home electrician Surat",
-    "Commercial electrician Surat",
     "Lighting installation Surat",
-    "Maintenance electrician Surat",
-    "Surat electrician services",
+    "Electrical maintenance Surat",
+    "Short circuit repair Surat",
+    "Commercial electrician Surat",
+    "Ceiling fan installation Surat",
+    "Electrician near me Surat",
   ],
   alternates: {
     canonical: "https://www.suryaelectrician.com/services",
   },
   openGraph: {
-    title: "Electrician Services in Surat | surya electrician",
+    title: "Electrician Services in Surat | Surya Electrician",
     description:
       "Professional electrician services in Surat for residential and commercial electrical work.",
     url: "https://www.suryaelectrician.com/services",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     type: "website",
   },
   robots: {
@@ -67,8 +67,9 @@ export default function ServicesPage() {
 
             <h1>Professional Electrician Services in Surat</h1>
             <p className="services-page__intro">
-              surya electrician delivers trusted electrical services across Surat for homes, shops, offices, and small businesses.
-              Our certified electricians handle repairs, installations, maintenance, and emergency support with safe, fast, and reliable service.
+              Surya Electrician provides reliable electrical services for homes and
+              businesses across Surat. Our team delivers fast repairs, safe
+              installations, and maintenance you can trust.
             </p>
           </div>
         </div>
@@ -100,7 +101,7 @@ export default function ServicesPage() {
                   <Link href="/electric-panel-repair">Electric Repair</Link>
                 </h3>
                 <p className="services-two__text">
-                  Fast, dependable electrical repairs for homes and businesses across Surat, from wiring faults to power loss solutions.
+                  Fast, dependable electrical repairs for homes and businesses in Surat.
                 </p>
                 <Link href="/electric-panel-repair" className="services-two__learn-more">
                   Learn More <span className="icon-arrow-right"></span>
@@ -119,7 +120,7 @@ export default function ServicesPage() {
                   <Link href="/lighting-fixtures">Lighting & Fixtures</Link>
                 </h3>
                 <p className="services-two__text">
-                  Professional lighting and fixture installation with safe, precise wiring and clean finishing.
+                  Professional lighting and fixture installation with safe, precise wiring.
                 </p>
                 <Link href="/lighting-fixtures" className="services-two__learn-more">
                   Learn More <span className="icon-arrow-right"></span>
@@ -138,7 +139,7 @@ export default function ServicesPage() {
                   <Link href="/maintenance-service">Maintenance Service</Link>
                 </h3>
                 <p className="services-two__text">
-                  Scheduled electrical maintenance and safety checks to keep your home and business systems reliable.
+                  Scheduled electrical maintenance to keep your systems safe and reliable.
                 </p>
                 <Link href="/maintenance-service" className="services-two__learn-more">
                   Learn More <span className="icon-arrow-right"></span>

@@ -130,7 +130,7 @@ export default function Page() {
       {/* ================= SEO META ================= */}
       <Head>
         <title>
-          Electrical Blogs, Safety Tips & Wiring Guides | radhyelectrician
+          Electrical Blogs, Safety Tips & Wiring Guides | suryaelectrician
         </title>
         <meta
           name="description"
@@ -138,7 +138,7 @@ export default function Page() {
         />
         <link
           rel="canonical"
-          href="https://www.radhyelectrician.com/blog"
+          href="https://www.suryaelectrician.com/blog"
         />
       </Head>
 
@@ -304,7 +304,7 @@ export default function Page() {
             "@context": "https://schema.org",
             "@type": "Blog",
             name: "Electrical Tips & Guides Blog",
-            url: "https://www.radhyelectrician.com/blog",
+            url: "https://www.suryaelectrician.com/blog",
           }),
         }}
       />

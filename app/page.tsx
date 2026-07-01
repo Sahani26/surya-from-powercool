@@ -17,9 +17,9 @@ import Sleder from "../public/components/Slider";
 
 /* ================= HOME SEO META ================= */
 export const metadata: Metadata = {
-  title: "Electrician & AC Services in Surat | surya electrician",
+  title: "Electrician & AC Services in Surat | Surya Electrician",
   description:
-    "surya electrician delivers trusted home and commercial electrical services in Surat, including AC installation, AC repair, wiring maintenance, short circuit repair, and emergency support.",
+    "Surya Electrician provides professional electrician and AC services in Surat. AC installation, AC repair, electrical repair, maintenance, short circuit repair, and more.",
   keywords: [
     "Electrician in Surat",
     "AC service in Surat",
@@ -30,18 +30,18 @@ export const metadata: Metadata = {
     "Short circuit repair Surat",
     "Home electrician Surat",
     "Commercial electrician Surat",
-    "surya electrician",
+    "Surya Electrician",
     "suryaelectrician",
   ],
   alternates: {
     canonical: "https://www.suryaelectrician.com",
   },
   openGraph: {
-    title: "Electrician & AC Services in Surat | surya electrician",
+    title: "Electrician & AC Services in Surat | Surya Electrician",
     description:
-      "Trusted electrician and AC service provider in Surat, serving homes and businesses with fast response, expert technicians, and transparent pricing.",
+      "Trusted electrician and AC service provider in Surat. Fast service, expert technicians, affordable pricing.",
     url: "https://www.suryaelectrician.com",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     locale: "en_IN",
     type: "website",
   },

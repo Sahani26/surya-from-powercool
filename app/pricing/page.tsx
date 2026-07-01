@@ -6,7 +6,7 @@ import Footer from "@/public/components/Footer";
 import Pricing from "@/public/components/Pricing";
 
 export const metadata: Metadata = {
-  title: "Pricing for Electrician Services in Surat | surya electrician",
+  title: "Pricing for Electrician Services in Surat | Surya Electrician",
   description:
     "Check pricing for electrician and AC services in Surat, including repairs, installations, maintenance, and emergency service fees.",
   keywords: [
@@ -19,11 +19,11 @@ export const metadata: Metadata = {
     canonical: "https://www.suryaelectrician.com/pricing",
   },
   openGraph: {
-    title: "Pricing for Electrician Services in Surat | surya electrician",
+    title: "Pricing for Electrician Services in Surat | Surya Electrician",
     description:
       "Explore transparent pricing for electrician and AC services in Surat with no hidden fees.",
     url: "https://www.suryaelectrician.com/pricing",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     type: "website",
   },
   robots: {
@@ -80,11 +80,11 @@ export default function PricingPage() {
             Request a Callback
           </h2>
           <p className="contact-three__text">
-            Call us at <Link href="tel:+919428654794">+91 9428654794</Link> or email{' '}
-            <Link href="mailto:suryaelectrician24@gmail.com">
-              suryaelectrician24@gmail.com
+            Call us at <Link href="tel:+919023915357">+91 9023915357</Link> or email{' '}
+            <Link href="mailto:suryaelectrician@gmail.com">
+              suryaelectrician@gmail.com
             </Link>{' '}
-            for a transparent price estimate and fast electrician quote.
+            for a fast quote.
           </p>
         </div>
       </div>

@@ -12,15 +12,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Electrician in Surat | surya electrician – AC & Electrical Services",
+  title: "Electrician in Surat | Surya Electrician – AC & Electrical Services",
   description:
-    "Looking for a trusted electrician in Surat? surya electrician provides expert electrical repairs, AC installation, servicing, and maintenance across all areas of Surat.",
+    "Looking for a trusted electrician in Surat? Surya Electrician provides expert electrical repairs, AC installation, servicing, and maintenance across all areas of Surat.",
   metadataBase: new URL("https://www.suryaelectrician.com"),
   openGraph: {
-    title: "Electrician in Surat | surya electrician",
+    title: "Electrician in Surat | Surya Electrician",
     description:
       "Trusted electrician and AC services in Surat with fast response, transparent quotes, and experienced technicians.",
-    siteName: "surya electrician",
+    siteName: "Surya Electrician",
     type: "website",
   },
   robots: {
