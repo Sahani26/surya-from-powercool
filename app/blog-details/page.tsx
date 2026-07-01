@@ -75,38 +75,43 @@ export default function blogdetails() {
                       </ul>
                     </div>
                     <h3 className="blog-details__title">
-                      Electrical Safety Tips from a Surat Electrician
+                      Elase They Endures Pains to Avoid The Worse Pains Taken
                     </h3>
                     <p className="blog-details__text-1">
-                      Learn how to keep your home and business safe with practical
-                      electrician advice from our Surat service team. This article
-                      covers how to identify common wiring problems, avoid frequent
-                      breaker trips, and choose the right electrical repairs.
+                      Out enigma ad minim veniam, quis nostrud exercitation ullamco
+                      laboris nisi ut aliquip ex ea commodo consequat. Duis aute inure
+                      dolor in the reprehenderit in voluptate velit esse cillum dolore
+                      eu fugiat null pariatur. Excepteur snit occaecat cupidatat non
+                      proident, sunt in culpa qui officia deserunt mollit anim id est
+                      laborum.
                     </p>
                     <p className="blog-details__text-2">
-                      Regular maintenance and prompt repairs are the best way to
-                      prevent electrical hazards. Our experienced electricians
-                      recommend checking wiring, switches, and load distribution
-                      before small issues become costly failures.
+                      The wise man therefore always holds in these matters to this
+                      principle of selection. He rejects pleasures to secure other
+                      greater pleasures, or else he endures pains to avoid worse pains
+                      to the selection point.
                     </p>
                     <div className="blog-details__author-box">
                       <h4 className="blog-details__author-text">
-                        “We focus on safe and reliable electrical service so Surat
-                        homeowners and business owners can trust their systems every
-                        day.”
+                        “Sed do eiusmod tempor incididunt labore et dolore magna
+                        aliqua. Uther enim minim veniam, quis nostrud exercitation
+                        ullamco laboris nisi aliquip commodo consequat. Duis aute
+                        irure dolor in reprehenderit in voluptate”
                       </h4>
                       <p className="blog-details__author-name">
-                        surya electrician<span> / Expert Electrician Team</span>
+                        Kane Williamson<span> / CEO</span>
                       </p>
                     </div>
                     <h3 className="blog-details__title-2">
-                      What to Do When Your Circuit Breaker Trips
+                      Sundress Pains to Avoid The Worse Pains{" "}
                     </h3>
                     <p className="blog-details__text-3">
-                      If your breaker trips often, it usually means your circuit is
-                      overloaded or there is a wiring fault. Avoid DIY repairs and
-                      call a certified electrician to inspect the circuit, replace
-                      bad breakers, and balance the load safely.
+                      Out enigma ad minim veniam, quis nostrud exercitation ullamco
+                      laboris nisi ut aliquip ex ea commodo consequat. Duis aute inure
+                      dolor in the reprehenderit in voluptate velit esse cillum dolore
+                      eu fugiat null pariatur. Excepteur snit occaecat cupidatat non
+                      proident, sunt in culpa qui officia deserunt mollit anim id est
+                      laborum.
                     </p>
                     <div className="blog-details__img-box">
                       <div className="row">

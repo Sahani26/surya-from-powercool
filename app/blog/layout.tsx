@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog – Electrical Tips & Guides | suryaelectrician",
+  title: "Blog – Electrical Tips & Guides | radhyelectrician",
   description:
     "Read expert electrician blogs, electrical safety tips, wiring guides, and home electrical solutions by professional electricians.",
   keywords: [
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "electrician in Surat",
   ],
   alternates: {
-    canonical: "https://www.suryaelectrician.com/blog",
+    canonical: "https://www.radhyelectrician.com/blog",
   },
   robots: {
   index: true,
@@ -27,8 +27,8 @@ export const metadata: Metadata = {
     title: "Electrical Tips & Guides Blog",
     description:
       "Professional electrician blogs with expert advice on electrical safety and home wiring.",
-    url: "https://www.suryaelectrician.com/blog",
-    siteName: "suryaelectrician",
+    url: "https://www.radhyelectrician.com/blog",
+    siteName: "radhyelectrician",
     type: "website",
   },
 };

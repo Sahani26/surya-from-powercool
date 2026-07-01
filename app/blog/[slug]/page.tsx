@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
 
   const slug = resolvedParams?.slug;
   const SITE_URL =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.suryaelectrician.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.radhyelectrician.com";
 
   if (!slug) {
     return {
@@ -112,7 +112,7 @@ export default async function Page({
 
   const slug = String(resolvedParams?.slug || "");
   const SITE_URL =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.suryaelectrician.com";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.radhyelectrician.com";
 
   if (!slug) return <NotFoundPage />;
 
